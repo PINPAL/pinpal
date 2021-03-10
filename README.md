@@ -1,4 +1,4 @@
-### About Me
+## 🍍 About Me
 
 Hello there, my name is Josh but you probably know me as PINPAL. I am a full time student who curretly resides in the UK. I make websites, apps, logos, jailbreak tweaks, themes and other cool stuff.
 
